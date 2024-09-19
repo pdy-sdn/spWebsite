@@ -51,8 +51,6 @@ icon:
 # Page tree
 nav:
 - Home: index.md
-- CV: Sudan Pandey CV.pdf
-- DMP: dmp.md
 
 # Extra Plugins
 plugins:
