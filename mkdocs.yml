@@ -51,6 +51,7 @@ icon:
 # Page tree
 nav:
 - Home: index.md
+- CV: Sudan Pandey CV.pdf
 
 # Extra Plugins
 plugins:
