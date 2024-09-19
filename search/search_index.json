@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"My Home","text":""},{"location":"dmp/","title":"Data management Plan","text":"<p>This is where my Data Manage Plan will go.</p>"}]}
