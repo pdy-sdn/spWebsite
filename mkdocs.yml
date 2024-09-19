@@ -1,14 +1,14 @@
-site_name: Name of your website
-site_description: Tell people what this website is about
-site_author: Who you are
-site_url: 'https://foss.cyverse.org'
+site_name: Sudan Pandey's Website
+site_description: This is a mock website for Sudan based on FOSS 24
+site_author: Sudan Pandey
+site_url: 'https://pdy-sdn.github.io/spWebsite/'
 
 # Repository
-repo_name: The repository name
-repo_url: 'https://github.com/CyVerse-learning-materials/foss'
+repo_name: spWebsite
+repo_url: 'https://github.com/pdy-sdn/spWebsite'
 edit_uri: edit/main/docs/
 # Copyright
-copyright: 'Copyright &copy; 2023 - 2024'
+copyright: 'Copyright &copy; 2024 - 2025'
 
 
 # Configuration
@@ -51,6 +51,8 @@ icon:
 # Page tree
 nav:
 - Home: index.md
+- CV: 
+- DMP: dmp.md
 
 # Extra Plugins
 plugins:
